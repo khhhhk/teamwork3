@@ -2,11 +2,11 @@
 ### このWEBページのホーム画面です。
 ### それぞれの魅力ページ、ライターページに遷移できます。
 
->kankou_inamura.html
->leisure_kimura.html
->maturi_kato.html
->onsen_itita.html
->writerpage.html
+- kankou_inamura.html
+- leisure_kimura.html
+- maturi_kato.html
+- onsen_itita.html
+- writerpage.html
 
 ---
 # それぞれの魅力ページについて
